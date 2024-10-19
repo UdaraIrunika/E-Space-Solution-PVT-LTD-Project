@@ -1,0 +1,90 @@
+<mxfile host="Electron" modified="2024-10-01T15:38:44.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="an7UIaK3BgwlkdQc7R9-" version="24.5.1" type="device">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="2388" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ILiIQvZbZL9rbKwtFEka-41" target="ILiIQvZbZL9rbKwtFEka-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-41" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="860" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-42" value="Trip Planning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="860" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ILiIQvZbZL9rbKwtFEka-43" target="ILiIQvZbZL9rbKwtFEka-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-43" value="Cheack Jet Availibility" style="" vertex="1" parent="1">
+          <mxGeometry x="260" y="850" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ILiIQvZbZL9rbKwtFEka-45" target="ILiIQvZbZL9rbKwtFEka-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-45" value="Assign Astronomer" style="" vertex="1" parent="1">
+          <mxGeometry x="260" y="1080" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ILiIQvZbZL9rbKwtFEka-46" target="ILiIQvZbZL9rbKwtFEka-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.19;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ILiIQvZbZL9rbKwtFEka-46" target="ILiIQvZbZL9rbKwtFEka-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-46" value="Is Jet Availibility" style="rhombus;fillColor=none;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="245" y="960" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-49" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="590" y="975" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-51" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="968" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-52" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="284.5" y="1030" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ILiIQvZbZL9rbKwtFEka-53" target="ILiIQvZbZL9rbKwtFEka-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-53" value="Shedule Trip Dates" style="" vertex="1" parent="1">
+          <mxGeometry x="520" y="1080" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ILiIQvZbZL9rbKwtFEka-55" target="ILiIQvZbZL9rbKwtFEka-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ILiIQvZbZL9rbKwtFEka-55" target="ILiIQvZbZL9rbKwtFEka-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-55" value="Are Dates Available" style="rhombus;fillColor=none;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1180" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-57" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-59" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1180" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-60" value="END" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1195" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-61" value="END" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="975" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ILiIQvZbZL9rbKwtFEka-62" target="ILiIQvZbZL9rbKwtFEka-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-62" value="Confirm House Available" style="" vertex="1" parent="1">
+          <mxGeometry x="520" y="1310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-64" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILiIQvZbZL9rbKwtFEka-66" value="Trip Shedule" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1290" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

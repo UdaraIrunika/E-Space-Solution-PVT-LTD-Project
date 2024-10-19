@@ -1,0 +1,136 @@
+<mxfile host="Electron" modified="2024-10-14T09:03:12.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="S4hjrJABZyC1i6wQ_A95" version="24.5.1" type="device">
+  <diagram name="Page-1" id="SF7Q3hLJmNAo7ksy9DLZ">
+    <mxGraphModel dx="1793" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="byq5JnrkLx5CWiELAcj_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-1" target="byq5JnrkLx5CWiELAcj_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-1" target="byq5JnrkLx5CWiELAcj_-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-1" target="byq5JnrkLx5CWiELAcj_-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-1" target="byq5JnrkLx5CWiELAcj_-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-1" value="Mars Colonization&amp;nbsp;&lt;div&gt;System&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="515" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-2" target="byq5JnrkLx5CWiELAcj_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-2" value="Colonist" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-29" target="byq5JnrkLx5CWiELAcj_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-29" value="Colonists Details" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=20;dy=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.233;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-29" target="byq5JnrkLx5CWiELAcj_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-35" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Retrive and Upload Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="161" y="170" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-39" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Request, Manage and Upload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Details&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-40" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2012px%3B%26quot%3B%26gt%3BRequest%2C%20Manage%20and%20Upload%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3BDetails%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22310%22%20y%3D%22520%22%20width%3D%22220%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="325" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-41" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Retrive and Upload Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-42" target="byq5JnrkLx5CWiELAcj_-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-42" value="Admin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-43" target="byq5JnrkLx5CWiELAcj_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-43" target="byq5JnrkLx5CWiELAcj_-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-43" value="Mars Colonization Database" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=20;dy=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-47" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Retrive and Upload Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="335" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Request, Manage and Upload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Details&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="500" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-49" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Request, Manage and&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Upload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Details&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="325" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-54" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Request, Manage and&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Upload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Details&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="325" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-55" target="byq5JnrkLx5CWiELAcj_-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-55" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="860" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-58" target="byq5JnrkLx5CWiELAcj_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-58" target="byq5JnrkLx5CWiELAcj_-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-58" value="Pilots Details" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=20;dy=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="710" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-60" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Request, Manage and Upload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Details&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="570" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-62" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Retrive and Upload Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="697" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-68" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Request, Manage and&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Upload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Details&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="890" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-69" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Retrive and Upload Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="697" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-70" target="byq5JnrkLx5CWiELAcj_-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-70" target="byq5JnrkLx5CWiELAcj_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-70" value="Pilots Details" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=20;dy=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="697" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="byq5JnrkLx5CWiELAcj_-71" target="byq5JnrkLx5CWiELAcj_-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-71" value="Data operators" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="850" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-74" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Request, Manage and Upload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Details&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="570" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-75" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Request, Manage and&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Upload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Details&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="890" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-77" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Retrive and Upload Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="170" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-78" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Retrive and Upload Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="760" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="byq5JnrkLx5CWiELAcj_-80" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Retrive and Upload Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="680" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
