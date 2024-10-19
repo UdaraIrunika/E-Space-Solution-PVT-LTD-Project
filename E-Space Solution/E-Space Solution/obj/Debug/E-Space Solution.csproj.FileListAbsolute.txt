@@ -1,0 +1,25 @@
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E-Space Solution.csproj.AssemblyReference.cache
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Assignpilot.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Assingjob.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Colonist.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Dashboard.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Dependents.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Ejet.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.House.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Job.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Login.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.MainForm.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Pilot.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Properties.Resources.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Register.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Trip.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E-Space Solution.csproj.GenerateResource.cache
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E-Space Solution.csproj.CoreCompileInputs.cache
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\bin\Debug\E-Space Solution.exe.config
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\bin\Debug\E-Space Solution.exe
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\bin\Debug\E-Space Solution.pdb
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E-Space Solution.exe
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E-Space Solution.pdb
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.MainFormfcolo.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.Viwetripinfo.resources
+F:\My\My assesment finished\DATABASE\c#\E-Space Solution\E-Space Solution\obj\Debug\E_Space_Solution.tripinfo.resources
